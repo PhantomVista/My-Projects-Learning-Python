@@ -10,4 +10,3 @@ class Dice:
 
 dice = Dice()
 print(dice.roll())
-
